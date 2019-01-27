@@ -31,4 +31,4 @@ Application for live visual presentation of haiku and other short written pieces
 
 ## problems to solve
 
-How to ensure that lines will not break in the wrong place? The poet-performer should, of course, know that a certain line-of-a-poem will break when using Helvetica above 28 points, eg, but maybe the program adjusts on the fly to reduce font-size if a line goes to the edge of the window and is about to break? That's probably too much for v.1, but the point is that each line of poetry is sacred and has to only ever be on a single line of the screen. 
+How to ensure that lines will not break in the wrong place? The poet-performer should, of course, know that a certain line-of-a-poem will break when using Helvetica above 28 points, eg, but maybe the program adjusts on the fly to reduce font-size if a line goes to the edge of the window and is about to break? That's probably too much for v.1, but the point is that each line of poetry should never break. 
