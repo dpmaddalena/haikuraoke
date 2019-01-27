@@ -4,7 +4,7 @@ a full-screen visual poetry performance program
 
 ## overview
 
-Application for live visual presentation of haiku and other short written pieces as accompaniment to live music performance. An audience sees a full-screen, live-editable, image of typing on-screen as music plays. The typing is not pre-recorded, but performed, so that as the band plays/improvises, the poet types out a poem on screen, correcting mistakes as she goes, changing fonts and colors with keyboard commands on-the-fly, basically controlling the app like a visual musical instrument, playing with the band. 
+Application for live visual presentation of haiku and other short written pieces as accompaniment to live music performance. An audience sees a full-screen, live-editable, image of typing on-screen as music plays. The typing is not pre-recorded, but *performed*, so that as the band plays/improvises, the poet types out a poem on screen, correcting mistakes as she goes, changing fonts and colors with keyboard commands on-the-fly, basically controlling the app like a visual musical instrument, playing with the band. 
 
 
 ## features
